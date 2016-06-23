@@ -15,3 +15,5 @@ Write a program in HTML+PHP+MySQL which will have following provisions:
 5. Calculate the cost for the trophy (As per your understanding).
 6. Store these into database (Creating an Order).
 7. Interface to retrieve and view the Order Details.
+
+The code provides the implementation for the above assignment.
